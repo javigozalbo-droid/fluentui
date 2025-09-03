@@ -489,3 +489,6 @@ export class PanelBase extends React.Component<IPanelProps, IPanelState> impleme
     }
   };
 }
+RUTA 1: ESTACIÓ NORD-CIRCUIT (DIRECTE) -https://maps.app.goo.gl/KK1GrXZWayVA8G3D9 
+RUTA 2:  ESTACIO NORD-CIRCUIT (PER CTRA. ROCA) https://maps.app.goo.gl/N534W53zDpZ8iKY4A
+RUTA 3: CIRCUIT-ESTACIO NORD https://maps.app.goo.gl/t7zXz8JradGs8iSS7
